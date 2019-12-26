@@ -1,0 +1,38 @@
+.container{
+  max-width: 600px;
+  margin: 0 auto;
+  overflow: hidden;
+  background:linear-gradient(to right ,#ffffff,#ccccccb4),#000;
+  text-align: center;
+}
+
+#btn {
+  border:none;
+  padding: 1rem;
+  margin:2rem;
+  text-align: center;
+
+
+}
+
+#btn:hover {
+  background:rgba(255, 108, 3, 0.726);
+  color: #fff;
+  cursor: pointer;
+}
+
+.outputdata{
+  text-align: center;
+  margin:2rem;
+  text-transform: uppercase;
+}
+
+.j {
+  padding: 1rem;
+  margin:1rem;
+}
+
+li {
+  padding:1rem;
+  text-align: justify;
+}
